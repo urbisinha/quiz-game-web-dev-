@@ -1,0 +1,1 @@
+This project is a simple JavaScript quiz game that runs entirely in the browser console. It uses a predefined set of questions and answers stored in arrays and allows the user to answer them one by one using prompt(). The quiz provides immediate feedback using alert(), keeps track of the user’s score, and displays the final result at the end.
